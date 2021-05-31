@@ -15,7 +15,7 @@ Quine
 {M[m(_s)S!(_o)0O!o.<34>(_s)(ns).?"{M[m(_s)S!(_o)0O!o.<34>(_s)(ns).?"
 "14?24?14?24?24?04?24?04?]}"14?24?14?24?24?04?24?04?]}
 
-Cat
+Cat /n
 {M[maI!bO!cA!dae.?<1>c(ne).?=/dac.?bo.?dae.?<1>c(ne).?=\]}
 
 99 bottles of beer
