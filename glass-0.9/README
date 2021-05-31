@@ -1,0 +1,7 @@
+
+
+To make the IRC bot, use:
+make clean all CXXFLAGS="-O2 -g -DIRC"
+
+To run it, modify glassIRC.sh to fit your needs then:
+nc -e ./glassIRC.sh irc.freenode.net 6667
